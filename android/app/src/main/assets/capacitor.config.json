@@ -1,0 +1,6 @@
+{
+	"appId": "com.koffiApp",
+	"appName": "koffiApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

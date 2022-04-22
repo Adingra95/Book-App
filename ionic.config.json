@@ -1,0 +1,7 @@
+{
+  "name": "koffiApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
